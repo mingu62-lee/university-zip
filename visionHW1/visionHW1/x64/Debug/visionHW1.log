@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\lee\documents\visual studio 2017\projects\visionhw1\visionhw1\소스.cpp(10): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\lee\documents\visual studio 2017\projects\visionhw1\visionhw1\소스.cpp(11): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  visionHW1.vcxproj -> C:\Users\lee\Documents\Visual Studio 2017\Projects\visionHW1\x64\Debug\visionHW1.exe
